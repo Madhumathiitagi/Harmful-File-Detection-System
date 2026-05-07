@@ -1,0 +1,9 @@
+scikit-learn
+numpy
+pandas
+pefile
+pyarrow
+customtkinter
+matplotlib
+pillow
+lightgbm
